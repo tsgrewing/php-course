@@ -9,6 +9,7 @@ $var3 =
         <h1>
         Hello from Tony Grewing
         </h1>
+    </body>
 </html>";
 
 echo $var1 + $var2;
