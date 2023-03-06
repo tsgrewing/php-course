@@ -1,7 +1,7 @@
 <?php
 
-$var1 = 4;
-$var2 = 6;
+// $var1 = 4;
+// $var2 = 6;
 $var3 = 
 "<html>
     <head></head>
